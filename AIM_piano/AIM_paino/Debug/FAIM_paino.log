@@ -1,0 +1,13 @@
+﻿Build started 12/13/2012 6:00:53 PM.
+     1>Project "D:\Temporary filez\AIM_piano\AIM_paino\FAIM_paino.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\FAIM_paino.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FAIM_piano.cpp
+         FAIM_piano.cpp
+     1>d:\temporary filez\aim_piano\aim_paino\faim_piano.cpp(5): fatal error C1083: Cannot open include file: 'AL\al.h': No such file or directory
+     1>Done Building Project "D:\Temporary filez\AIM_piano\AIM_paino\FAIM_paino.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.46
